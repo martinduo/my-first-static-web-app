@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #1e1e1e;
+  background-color: #e6efdba3;
   color: white;
   padding: 40px;
 }
@@ -20,4 +20,4 @@ button {
   border: none;
   border-radius: 5px;
   cursor: pointer;
-}
+} 
